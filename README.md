@@ -1,3 +1,3 @@
 # Aprendiendo Git
-Bitácora del curso de Git y GitHub.Autor: Jessy
-Autor: Jessy
+Bitácora del curso de Git y GitHub.
+Jessy
