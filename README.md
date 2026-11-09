@@ -1,4 +1,2 @@
-# Aprendiendo Git
-Bitácora del curso de Git y GitHub.
-
-Autor: Jessy
+# Proyecto-CI
+Nota: bitácora del curso de Git; cada sección documenta una técnica.
